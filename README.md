@@ -30,3 +30,6 @@ This project dives into the world of HR data analytics, where we explore a compr
 | Business Dev | 8      |
 | Human Resources | 7   |
 | Legal | 7   |
+| Support | 7   |
+| Training | 7   |
+| Product Management | 6   |
