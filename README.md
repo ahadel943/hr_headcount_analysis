@@ -37,6 +37,6 @@ This project dives into the world of HR data analytics, where we explore a compr
 3. **Headcount distribution  by location**
 
 | Location  | Count |
-| ----------- | ------- |
+| --------- | ------- |
 | Headquarters | 13,710 |
 | Remote  | 4,575       |
