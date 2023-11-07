@@ -98,3 +98,11 @@ This project dives into the world of HR data analytics, where we explore a compr
 | 55-64	| Female | 689 | 
 | 55-64 | Male | 723 |
 | 55-64	| Non-Conforming | 42 |
+
+7. **Headcount distribution by gender**
+
+| Gender | Count |
+| ------ | ----- |
+| Female | 8,455 |
+| Male	 | 9,328 |
+| Non-Conforming | 502 |
