@@ -40,3 +40,15 @@ This project dives into the world of HR data analytics, where we explore a compr
 | --------- | ------- |
 | Headquarters | 13,710 |
 | Remote  | 4,575       |
+
+4. **Headcount distribution by state**
+
+| State |	Count |
+| ----- | ----- |
+| Ohio	| 3,237 |
+| Pennsylvania |	185 |
+| Illinois | 138 |
+| Indiana	| 128 |
+| Michigan | 104 |
+| Kentucky | 76 |
+| Wisconsin	 | 61 |
