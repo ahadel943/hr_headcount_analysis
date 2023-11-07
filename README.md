@@ -106,3 +106,15 @@ This project dives into the world of HR data analytics, where we explore a compr
 | Female | 8,455 |
 | Male	 | 9,328 |
 | Non-Conforming | 502 |
+
+8. **Headcount distribution by race**
+
+| Race | Count |
+| ---- | ----- |
+| White | 5,214 |
+| Two or More Races | 2,989 |
+| Black or African American | 2,983 |
+| Asian | 2,936 |
+| Hispanic or Latino | 2,074 |
+| American Indian or Alaska Native | 1,098 |
+| Native Hawaiian or Other Pacific Islander |	991 |
