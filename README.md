@@ -28,3 +28,4 @@ This project dives into the world of HR data analytics, where we explore a compr
 | R and D     | 8       |
 | Services    | 8       |
 | Business Dev | 8      |
+| Human Resources | 7   |
