@@ -78,3 +78,23 @@ This project dives into the world of HR data analytics, where we explore a compr
 | 2018 | 1,147 | 44	          | 1,103	     | 96.16 % |
 | 2019 | 1,083 | 47	          | 1,036	     | 95.66 % |
 | 2020 | 1,012 | 24	          | 988	       | 97.63 % |
+
+6. **Headcount distribution by gender and age group**
+
+| Age Group | Gender | Count |
+| --------- | ------ | ----- |
+| 18-24 | Female | 880 |
+| 18-24 | Male | 1,011 |
+| 18-24 | Non-Conforming | 49 |
+| 25-34 | Female | 2,354 |
+| 25-34 | Male | 2,479 |
+| 25-34 | Non-Conforming | 136 |
+| 35-44 | Female | 2,231 |
+| 35-44 | Male | 2,620 |
+| 35-44 | Non-Conforming | 139 |
+| 45-54 |	Female | 2,301 |
+| 45-54 | Male | 2,495 |
+| 45-54 | Non-Conforming | 136 |
+| 55-64	| Female | 689 | 
+| 55-64 | Male | 723 |
+| 55-64	| Non-Conforming | 42 |
