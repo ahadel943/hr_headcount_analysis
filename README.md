@@ -4,6 +4,11 @@
 
 This project dives into the world of HR data analytics, where we explore a comprehensive dataset to uncover patterns, trends, and potential drivers of employee attrition. By analyzing variables such as age, gender, and other relevant factors, we aim to provide actionable insights that can inform HR policies, improve employee retention, and ultimately contribute to the organization's long-term success.
 
+# Tools
+1. XAMPP Web Server
+2. Maria-DB (Relational Database)
+3. MySQL Workbench
+
 # Findings
 
 1. **Headcount distribution by age group**
